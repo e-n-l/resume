@@ -9,21 +9,21 @@ by Ian Liddle
 - **Strong skills:**
 	AJAX, Apache, Catalyst MVC, ColdFusion, CRM, CSS, DNS, Functional Programming, Git, HTML5, JSON, jQuery, Linux, SQL, Object-Oriented Programming, Perl, PDFs, PHP, Process Automation, Regex, Responsive / Mobile Design, Sass / SCSS, WordPress
 - **Familiar with:**
-	Ansible, Bootstrap, Bower, C++, Design Patterns, DevOps, Docker, GitHub / GitLab, Google Action Script, Gulp, Java, NGINX, Node.js, NPM, Trello, Virtual Servers, XML
+	Ansible, Bootstrap, Bower, C++, C#, Design Patterns, DevOps, Docker, GitHub / GitLab, Google Action Script, Gulp, Java, NGINX, Node.js, NPM, Python 3, Virtual Servers, XML
 - **Passionately fascinated with / exploring:**
   Ad Tech, Agile / Scrum, Blockchain, Containerization, Ethereum, Go / golang, Machine Learning, Mobile App Development, Python, Raspberry Pi / Open Hardware, Security Best Practices, Test-Driven Design
 
 
 ### Senior Software Engineer 
-**Digital Lizard Printing** 
-Currently developing an expansive ecosystem of applications to extend ERP capabilities. Engineering scalable integrations to manage and measure every stage of fulfillment.
+**Digital Lizard Printing, an LSC Communications Company** 
+New development and legacy maintenance of various applications extending custom ERP capabilities. Engineered scalable integrations to manage and measure every stage of fulfillment. Onboarded and mentored of junior developers.
 
 **Major Projects:** 
-- Dynamically-extensible production analytics
-- RESTful B2B API integration framework (XML and JSON)
-- Parametric cost estimator for client job quotes
-- Process Automation with Instant Message Notifications
-- Global Shipping Interface
+- Dynamically-extensible production reporting
+- RESTful B2B API integration framework (XML and JSON) development
+- Comprehensive cost estimator for client job quotes
+- Process Automation with instant message notifications
+- Global shipping interface
 
 
 ### Technical Account Manager 
