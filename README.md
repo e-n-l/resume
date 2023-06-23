@@ -2,16 +2,26 @@
 by Ian Liddle
 
 ## Summary
-- 10+ years using Perl, PHP, PostgreSQL, MySQL, HTML, CSS, and JavaScript to complete dozens of projects.
+- 16+ years using Perl, PHP, PostgreSQL, MySQL, HTML, CSS, and JavaScript to complete dozens of projects.
 - Ravenous fascination with object modeling, data structures, and data mining business intelligence.
 - Committed to radical authenticity, accountability and direct communication.
 - Extensive consulting and project execution experience.
-- **Strong skills:**
-	AJAX, Apache, Catalyst MVC, ColdFusion, CRM, CSS, DNS, Functional Programming, Git, HTML5, JSON, jQuery, Linux, SQL, Object-Oriented Programming, Perl, PDFs, PHP, Process Automation, Regex, Responsive / Mobile Design, Sass / SCSS, WordPress
-- **Familiar with:**
-	Ansible, Bootstrap, Bower, C++, C#, Design Patterns, DevOps, Docker, GitHub / GitLab, Google Action Script, Gulp, Java, NGINX, Node.js, NPM, Python 3, Virtual Servers, XML
+- **Strong skills:**	
+  Agile / Scrum, AJAX, Apache, Catalyst MVC, ColdFusion, CRM, CSS, DNS, Functional Programming, Git, HTML5, JSON, jQuery, Linux, Mentorship, MySQL, Object-Oriented Programming, Order Management, Perl, PDFs, PHP, PostgreSQL, Process Automation, Regex, Relational Databases, Responsive / Mobile Design, Sass / SCSS, SQL Server
+- **Operating knowledge of / familiarity with:**
+  Ansible, Bootstrap, Bower, C++, C#, Containerization, Design Patterns, DevOps, Docker, GitHub / GitLab, Google Action Script, Gulp, IIS, Java, NGINX, Node.js, NPM, Python, Virtual Servers, XML
 - **Passionately fascinated with / exploring:**
-  Ad Tech, Agile / Scrum, Blockchain, Containerization, Ethereum, Go / golang, Machine Learning, Mobile App Development, Python, Raspberry Pi / Open Hardware, Security Best Practices, Test-Driven Design
+  Ad Tech, Blockchain, Containerization, Ethereum, Go / golang, Machine Learning, Mobile App Development, Python, Raspberry Pi / Open Hardware, Security Best Practices, Test-Driven Design
+
+
+### Software Engineer, Principal
+**Hardlines Distribution Alliance**
+Update, re-brand, refactor and extend diverse ecosystem of Microsoft Technology stack applications (Classic ASP, .NET MVC Framework, .NET Core, SQL Server, IIS) to reconcile an effective organizational merger of two mature legacy ERP systems.
+
+
+### Sr. Software Engineer III
+**TreviPay**
+Extension, maintenance and support for legacy fintech codebase in a modern DevOps toolchain (Linux, Perl, Oracle, XML, Docker, GitLab CI/CD, Kubernetes, AWS). New feature development using Ruby on Rails & REST Open APIs.
 
 
 ### Senior Software Engineer 
