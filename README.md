@@ -14,13 +14,13 @@ by Ian Liddle
   Ad Tech, Blockchain, Containerization, Ethereum, Go / golang, Machine Learning, Mobile App Development, Python, Raspberry Pi / Open Hardware, Security Best Practices, Test-Driven Design
 
 
-### Software Engineer, Principal
-**Hardlines Distribution Alliance**
+### Software Engineer, Principal   
+**Hardlines Distribution Alliance**   
 Update, re-brand, refactor and extend diverse ecosystem of Microsoft Technology stack applications (Classic ASP, .NET MVC Framework, .NET Core, SQL Server, IIS) to reconcile an effective organizational merger of two mature legacy ERP systems.
 
 
-### Sr. Software Engineer III
-**TreviPay**
+### Sr. Software Engineer III  
+**TreviPay**   
 Extension, maintenance and support for legacy fintech codebase in a modern DevOps toolchain (Linux, Perl, Oracle, XML, Docker, GitLab CI/CD, Kubernetes, AWS). New feature development using Ruby on Rails & REST Open APIs.
 
 
